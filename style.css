@@ -39,7 +39,7 @@
 }
 
 .ex-4-square:hover {
-  display: none;
+  transform: scale(0);
 }
 
 .ex-5-square {
